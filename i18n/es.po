@@ -1,0 +1,11 @@
+#: init/newrelic.js
+msgid "Alert policy created"
+msgstr "Poltica de alertas creada"
+
+#: public/form/newrelic-call-form.js
+msgid "Options table"
+msgstr "Tabla de opciones"
+
+#: public/form/newrelic-ci-form.js
+msgid "Api Key"
+msgstr "Clave Api"
