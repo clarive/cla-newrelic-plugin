@@ -1,7 +1,7 @@
 name: Clarive New Relic Plugin
 description: New Relic plugin will allow you to create Policy Alerts from New Relic API remotely from a Clarive instance.
 version: 1.0
-icon: https://github.com/clarive/cla-newrelic-plugin/public/icon/newrelic.svg
+icon: https://cdn.rawgit.com/clarive/cla-newrelic-plugin/master/public/icon/newrelic.svg?sanitize=true
 url: https://github.com/clarive/cla-newrelic-plugin
 requires:
   - clarive_version: 6.8 <= version
